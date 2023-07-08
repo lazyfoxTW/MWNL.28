@@ -1,0 +1,291 @@
+Taiwan
+traceroute to ncu.edu.tw (140.115.0.251), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.114 ms  0.157 ms  0.197 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.015 ms  1.119 ms  1.297 ms
+ 3  phy-cc.ncu.edu.tw (203.72.244.50)  0.689 ms 203.72.244.180 (203.72.244.180)  0.790 ms 203.72.244.186 (203.72.244.186)  1.221 ms
+ 4  203.72.244.180 (203.72.244.180)  0.871 ms 203.72.244.186 (203.72.244.186)  0.963 ms 203.72.244.180 (203.72.244.180)  1.104 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Europe
+traceroute to cam.ac.uk (128.232.132.8), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.170 ms  0.165 ms  0.307 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  0.997 ms  0.995 ms  1.284 ms
+ 3  203.72.244.185 (203.72.244.185)  0.766 ms  0.976 ms  1.061 ms
+ 4  ncu-ncu-76.twaren.net (211.79.51.25)  2.004 ms  2.091 ms  2.097 ms
+ 5  hc-a2.twaren.net (211.73.76.149)  3.074 ms  3.129 ms  3.177 ms
+ 6  hc-a3.twaren.net (211.73.76.126)  2.991 ms  2.257 ms  2.197 ms
+ 7  211.73.77.245 (211.73.77.245)  134.072 ms  134.024 ms  134.117 ms
+ 8  la-76-ny-asr.twaren.net (211.79.48.186)  195.960 ms  195.958 ms  195.964 ms
+ 9  geant_ny-a1.twaren.net (211.79.48.146)  279.342 ms  279.390 ms  279.387 ms
+10  ae8.mx1.lon2.uk.geant.net (62.40.98.106)  276.138 ms  276.135 ms  276.211 ms
+11  ae2.mx1.lon.uk.geant.net (62.40.98.64)  276.661 ms  276.659 ms  276.745 ms
+12  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  275.749 ms  275.223 ms  275.270 ms
+13  ae28.lowdss-sbr1.ja.net (146.97.33.18)  280.004 ms  280.093 ms  279.996 ms
+14  ae26.lowdss-ban1.ja.net (146.97.35.246)  291.125 ms  291.123 ms  291.249 ms
+15  uoc.ja.net (146.97.41.38)  286.999 ms  286.762 ms  286.993 ms
+16  c-mi.b-jc.net.cam.ac.uk (131.111.6.182)  294.979 ms  294.972 ms  294.969 ms
+17  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  279.980 ms  280.513 ms  280.208 ms
+18  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  279.827 ms  279.157 ms  279.160 ms
+19  s-dw.f-sv-net.net.cam.ac.uk (128.232.128.2)  276.021 ms  276.019 ms  283.583 ms
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+America
+traceroute to amazon.com (205.251.242.103), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.126 ms  0.265 ms  0.165 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  0.834 ms  1.332 ms  1.329 ms
+ 3  203.72.244.185 (203.72.244.185)  0.872 ms  0.869 ms  1.022 ms
+ 4  tyrc-ncu.ncu.edu.tw (203.72.244.225)  1.871 ms  2.137 ms  2.251 ms
+ 5  192.192.61.102 (192.192.61.102)  3.433 ms  3.527 ms  3.429 ms
+ 6  192.192.61.54 (192.192.61.54)  5.307 ms  4.138 ms  4.192 ms
+ 7  192.192.61.58 (192.192.61.58)  4.487 ms  4.478 ms  4.475 ms
+ 8  192.192.68.62 (192.192.68.62)  9.380 ms  9.377 ms  9.445 ms
+ 9  be6092.ccr51.tpe01.atlas.cogentco.com (154.18.24.33)  141.245 ms  141.355 ms  141.469 ms
+10  be2012.ccr71.tyo01.atlas.cogentco.com (66.28.4.233)  141.639 ms  141.218 ms  141.727 ms
+11  be3929.ccr72.tyo01.atlas.cogentco.com (154.54.83.190)  141.441 ms  141.518 ms  141.593 ms
+12  be3696.ccr41.sjc03.atlas.cogentco.com (154.54.86.137)  138.684 ms be2894.ccr41.lax04.atlas.cogentco.com (154.54.1.21)  141.242 ms be3696.ccr41.sjc03.atlas.cogentco.com (154.54.86.137)  138.621 ms
+13  be3670.ccr22.sfo01.atlas.cogentco.com (154.54.43.13)  142.305 ms  142.083 ms be3669.ccr21.sfo01.atlas.cogentco.com (154.54.43.9)  209.020 ms
+14  be3110.ccr32.slc01.atlas.cogentco.com (154.54.44.142)  154.557 ms be3109.ccr21.slc01.atlas.cogentco.com (154.54.44.138)  156.214 ms be3177.ccr22.sjc01.atlas.cogentco.com (154.54.40.146)  140.009 ms
+15  be3144.ccr41.sjc03.atlas.cogentco.com (154.54.5.102)  143.291 ms be3038.ccr22.den01.atlas.cogentco.com (154.54.42.98)  173.263 ms be3142.ccr41.sjc03.atlas.cogentco.com (154.54.1.194)  141.169 ms
+16  be3035.ccr21.mci01.atlas.cogentco.com (154.54.5.90)  176.305 ms  176.570 ms  176.395 ms
+17  * * *
+18  * * *
+19  be3035.ccr21.mci01.atlas.cogentco.com (154.54.5.90)  178.915 ms * *
+20  * * *
+21  15.230.183.41 (15.230.183.41)  191.551 ms 15.230.183.83 (15.230.183.83)  177.376 ms *
+22  * * *
+23  * * *
+24  15.230.183.43 (15.230.183.43)  191.243 ms 15.230.183.81 (15.230.183.81)  189.029 ms 15.230.183.37 (15.230.183.37)  183.991 ms
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+Taiwan
+traceroute to ncu.edu.tw (140.115.0.251), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.169 ms  0.212 ms  0.259 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.009 ms  1.008 ms  1.271 ms
+ 3  203.72.244.180 (203.72.244.180)  1.303 ms  0.876 ms  0.957 ms
+ 4  phy-cc.ncu.edu.tw (203.72.244.50)  1.048 ms 203.72.244.180 (203.72.244.180)  1.179 ms  1.368 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Europe
+traceroute to cam.ac.uk (128.232.132.8), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.125 ms  0.292 ms  0.289 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.151 ms  1.222 ms  1.220 ms
+ 3  203.72.244.185 (203.72.244.185)  0.825 ms  0.863 ms  0.933 ms
+ 4  ncu-ncu-76.twaren.net (211.79.51.25)  2.087 ms  2.084 ms  2.080 ms
+ 5  hc-a2.twaren.net (211.73.76.149)  4.339 ms  3.154 ms  3.298 ms
+ 6  hc-a3.twaren.net (211.73.76.126)  3.149 ms  2.151 ms  2.297 ms
+ 7  211.73.77.245 (211.73.77.245)  133.955 ms  133.952 ms  134.047 ms
+ 8  la-76-ny-asr.twaren.net (211.79.48.186)  202.922 ms  202.920 ms  202.917 ms
+ 9  geant_ny-a1.twaren.net (211.79.48.146)  269.609 ms  269.607 ms  269.605 ms
+10  ae8.mx1.lon2.uk.geant.net (62.40.98.106)  276.638 ms  276.636 ms  276.634 ms
+11  ae2.mx1.lon.uk.geant.net (62.40.98.64)  277.432 ms  277.505 ms  277.423 ms
+12  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  275.069 ms  275.242 ms  275.279 ms
+13  ae28.lowdss-sbr1.ja.net (146.97.33.18)  281.523 ms  281.516 ms  281.590 ms
+14  ae26.lowdss-ban1.ja.net (146.97.35.246)  291.140 ms  291.267 ms  291.264 ms
+15  uoc.ja.net (146.97.41.38)  287.017 ms  286.833 ms  287.011 ms
+16  c-mi.b-jc.net.cam.ac.uk (131.111.6.182)  294.993 ms  295.063 ms  294.988 ms
+17  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  280.147 ms  280.666 ms  280.399 ms
+18  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  280.004 ms  345.989 ms  317.048 ms
+19  s-dw.f-sv-net.net.cam.ac.uk (128.232.128.2)  346.472 ms  342.323 ms  285.591 ms
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+America
+traceroute to amazon.com (54.239.28.85), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.169 ms  0.218 ms  0.163 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.657 ms  1.696 ms  1.977 ms
+ 3  203.72.244.185 (203.72.244.185)  0.898 ms  0.942 ms  1.221 ms
+ 4  tyrc-ncu.ncu.edu.tw (203.72.244.225)  1.823 ms  1.965 ms  2.219 ms
+ 5  192.192.61.102 (192.192.61.102)  3.363 ms  3.653 ms  3.409 ms
+ 6  192.192.61.54 (192.192.61.54)  5.071 ms  4.242 ms  4.191 ms
+ 7  192.192.61.58 (192.192.61.58)  4.341 ms  4.347 ms  4.803 ms
+ 8  192.192.68.62 (192.192.68.62)  5.613 ms  5.665 ms  5.701 ms
+ 9  be6092.ccr51.tpe01.atlas.cogentco.com (154.18.24.33)  141.244 ms  141.242 ms  141.315 ms
+10  be2012.ccr71.tyo01.atlas.cogentco.com (66.28.4.233)  141.384 ms  141.102 ms  141.199 ms
+11  be3929.ccr72.tyo01.atlas.cogentco.com (154.54.83.190)  141.061 ms  141.060 ms  141.192 ms
+12  be3696.ccr41.sjc03.atlas.cogentco.com (154.54.86.137)  139.221 ms  138.851 ms  138.620 ms
+13  be3670.ccr22.sfo01.atlas.cogentco.com (154.54.43.13)  142.567 ms be3669.ccr21.sfo01.atlas.cogentco.com (154.54.43.9)  141.918 ms be3670.ccr22.sfo01.atlas.cogentco.com (154.54.43.13)  142.241 ms
+14  be3177.ccr22.sjc01.atlas.cogentco.com (154.54.40.146)  140.283 ms be3110.ccr32.slc01.atlas.cogentco.com (154.54.44.142)  154.262 ms  154.258 ms
+15  be3038.ccr22.den01.atlas.cogentco.com (154.54.42.98)  173.071 ms be3037.ccr21.den01.atlas.cogentco.com (154.54.41.146)  176.798 ms be3142.ccr41.sjc03.atlas.cogentco.com (154.54.1.194)  141.493 ms
+16  be3669.ccr21.sfo01.atlas.cogentco.com (154.54.43.9)  144.656 ms be3035.ccr21.mci01.atlas.cogentco.com (154.54.5.90)  176.614 ms  176.537 ms
+17  * * *
+18  * be3038.ccr22.den01.atlas.cogentco.com (154.54.42.98)  175.710 ms *
+19  * * be3036.ccr22.mci01.atlas.cogentco.com (154.54.31.90)  175.721 ms
+20  * * *
+21  15.230.183.53 (15.230.183.53)  184.417 ms * 15.230.183.41 (15.230.183.41)  185.302 ms
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+Taiwan
+traceroute to ncu.edu.tw (140.115.0.251), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.244 ms  0.236 ms  0.224 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.418 ms  1.342 ms  1.413 ms
+ 3  203.72.244.142 (203.72.244.142)  0.859 ms  1.559 ms  0.964 ms
+ 4  203.72.244.186 (203.72.244.186)  1.035 ms  1.141 ms 203.72.244.142 (203.72.244.142)  1.338 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Europe
+traceroute to cam.ac.uk (128.232.132.8), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.214 ms  0.211 ms  0.216 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  1.230 ms  1.799 ms  1.797 ms
+ 3  203.72.244.185 (203.72.244.185)  0.850 ms  0.903 ms  0.965 ms
+ 4  ncu-ncu-76.twaren.net (211.79.51.25)  1.986 ms  2.043 ms  2.050 ms
+ 5  hc-a2.twaren.net (211.73.76.149)  3.111 ms  3.201 ms  3.156 ms
+ 6  hc-a3.twaren.net (211.73.76.126)  2.957 ms  2.145 ms  2.181 ms
+ 7  211.73.77.245 (211.73.77.245)  137.786 ms  133.871 ms  133.866 ms
+ 8  la-76-ny-asr.twaren.net (211.79.48.186)  195.951 ms  195.949 ms  196.009 ms
+ 9  geant_ny-a1.twaren.net (211.79.48.146)  269.333 ms  269.331 ms  269.422 ms
+10  ae8.mx1.lon2.uk.geant.net (62.40.98.106)  276.112 ms  276.110 ms  276.181 ms
+11  ae2.mx1.lon.uk.geant.net (62.40.98.64)  276.657 ms  276.655 ms  276.458 ms
+12  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  275.478 ms  275.476 ms  275.277 ms
+13  ae28.lowdss-sbr1.ja.net (146.97.33.18)  280.042 ms  280.039 ms  280.037 ms
+14  ae26.lowdss-ban1.ja.net (146.97.35.246)  291.224 ms  291.222 ms  291.333 ms
+15  uoc.ja.net (146.97.41.38)  286.878 ms  286.999 ms  286.997 ms
+16  c-mi.b-jc.net.cam.ac.uk (131.111.6.182)  295.030 ms  295.028 ms  295.026 ms
+17  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  279.588 ms  279.705 ms  279.964 ms
+18  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  287.156 ms  287.315 ms  287.594 ms
+19  s-dw.f-sv-net.net.cam.ac.uk (128.232.128.2)  276.021 ms  276.019 ms  276.115 ms
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+America
+traceroute to amazon.com (205.251.242.103), 30 hops max, 60 byte packets
+ 1  _gateway (10.33.7.254)  0.268 ms  0.263 ms  0.261 ms
+ 2  gateway.ee.ncu.edu.tw (140.115.70.254)  0.947 ms  1.290 ms  1.288 ms
+ 3  203.72.244.185 (203.72.244.185)  1.092 ms  1.191 ms  1.224 ms
+ 4  tyrc-ncu.ncu.edu.tw (203.72.244.225)  1.853 ms  2.088 ms  2.159 ms
+ 5  192.192.61.102 (192.192.61.102)  3.448 ms  3.496 ms  3.590 ms
+ 6  192.192.61.54 (192.192.61.54)  4.836 ms  3.952 ms  3.994 ms
+ 7  192.192.61.58 (192.192.61.58)  4.333 ms  3.957 ms  4.358 ms
+ 8  192.192.68.62 (192.192.68.62)  4.494 ms  4.410 ms  4.626 ms
+ 9  be6092.ccr51.tpe01.atlas.cogentco.com (154.18.24.33)  141.048 ms  141.672 ms  141.850 ms
+10  be2012.ccr71.tyo01.atlas.cogentco.com (66.28.4.233)  140.718 ms  140.779 ms  140.837 ms
+11  be3929.ccr72.tyo01.atlas.cogentco.com (154.54.83.190)  141.070 ms  140.943 ms  140.428 ms
+12  be3696.ccr41.sjc03.atlas.cogentco.com (154.54.86.137)  138.796 ms  138.695 ms  138.887 ms
+13  be3670.ccr22.sfo01.atlas.cogentco.com (154.54.43.13)  142.776 ms be3669.ccr21.sfo01.atlas.cogentco.com (154.54.43.9)  141.931 ms be3360.ccr42.lax01.atlas.cogentco.com (154.54.25.149)  141.235 ms
+14  be3176.ccr21.sjc01.atlas.cogentco.com (154.54.31.190)  143.627 ms be3109.ccr21.slc01.atlas.cogentco.com (154.54.44.138)  156.148 ms  156.144 ms
+15  be3037.ccr21.den01.atlas.cogentco.com (154.54.41.146)  176.638 ms be3038.ccr22.den01.atlas.cogentco.com (154.54.42.98)  172.962 ms be3037.ccr21.den01.atlas.cogentco.com (154.54.41.146)  176.723 ms
+16  be3036.ccr22.mci01.atlas.cogentco.com (154.54.31.90)  172.958 ms  172.956 ms  172.954 ms
+17  * be3109.ccr21.slc01.atlas.cogentco.com (154.54.44.138)  158.874 ms *
+18  * be3037.ccr21.den01.atlas.cogentco.com (154.54.41.146)  179.155 ms *
+19  be3036.ccr22.mci01.atlas.cogentco.com (154.54.31.90)  175.699 ms * *
+20  * * *
+21  15.230.183.79 (15.230.183.79)  186.134 ms 15.230.183.55 (15.230.183.55)  186.575 ms 15.230.183.81 (15.230.183.81)  185.507 ms
+22  * * *
+23  * * *
+24  * 15.230.183.71 (15.230.183.71)  186.037 ms *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
